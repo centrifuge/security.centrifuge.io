@@ -3,6 +3,7 @@
 The following folder contains all public audit reports.
 
 ## Liquidity Pools
+* Spearbit - July 2024 - [Report](https://github.com/spearbit/portfolio/blob/master/pdfs/Centrifuge-Spearbit-Security-Review-July-2024.pdf) - [Local](liquidity-pools/2024-07-Spearbit.pdf)
 * Spearbit (Cantina Managed) - October 2023 - [Local](liquidity-pools/2023-10-Spearbit-Cantina-Managed.pdf)
 * SRLabs - September 2023 - [Local](liquidity-pools/2023-09-SRLabs.pdf)
 * Code4rena - September 2023 - [Report](https://code4rena.com/reports/2023-09-centrifuge) - [Local](liquidity-pools/2023-09-Code4rena.md)
